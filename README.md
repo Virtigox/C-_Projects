@@ -1,2 +1,2 @@
 # C++_Projects
-Creating small projects to know the languages and logics behind C++
+Creating small projects to learn the languages and logic behind C++
